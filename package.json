@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@headlessui/react": "^1.6.2",
     "@types/jest": "^27.4.1",
     "@types/lodash-es": "^4.17.6",
     "@types/node": "^16.11.26",
