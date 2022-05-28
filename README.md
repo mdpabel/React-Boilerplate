@@ -1,4 +1,4 @@
-# React - boilerplate
+# React - boilerplate :- - https://theroadtoenterprise.com/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and enhanced with additional config and tools.
 
@@ -109,5 +109,3 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## Useful links
-
-- https://theroadtoenterprise.com/
